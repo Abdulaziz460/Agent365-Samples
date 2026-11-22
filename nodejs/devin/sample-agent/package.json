@@ -21,7 +21,7 @@
     "@microsoft/agents-hosting": "^1.0.15",
     "@opentelemetry/core": "2.8.0",
     "dotenv": "^17.2.3",
-    "uuid": "^13.0.0"
+    "uuid": "^14.0.1"
   },
   "devDependencies": {
     "@microsoft/m365agentsplayground": "^0.2.20",
