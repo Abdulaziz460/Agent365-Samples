@@ -22,7 +22,7 @@
     "@langchain/langgraph": "*",
     "@langchain/mcp-adapters": "*",
     "@langchain/openai": "*",
-    "@microsoft/agents-activity": "^1.1.0-alpha.85",
+    "@microsoft/agents-activity": "^1.10.2",
     "@microsoft/agents-hosting": "^1.1.0-alpha.85",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
