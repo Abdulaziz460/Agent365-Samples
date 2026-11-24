@@ -24,7 +24,7 @@
     "@langchain/openai": "*",
     "@microsoft/agents-activity": "^1.1.0-alpha.85",
     "@microsoft/agents-hosting": "^1.1.0-alpha.85",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.4.2",
     "express": "^5.1.0",
     "langchain": "^1.0.1",
     "node-fetch": "^3.3.2",
