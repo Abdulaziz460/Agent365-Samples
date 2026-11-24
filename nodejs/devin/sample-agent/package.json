@@ -24,7 +24,7 @@
     "uuid": "^13.0.0"
   },
   "devDependencies": {
-    "@microsoft/m365agentsplayground": "^0.2.20",
+    "@microsoft/m365agentsplayground": "^0.2.30",
     "@types/express": "^4.17.21",
     "typescript": "^5.9.2"
   }
